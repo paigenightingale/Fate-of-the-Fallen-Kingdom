@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" href="game.css">
+</head>
+<title>Fate of the Fallen Kingdom</title>
+<h1>Fate of the Fallen Kingdom</h1>
+
+<main>
+
+<a href="adventuregamehomepage.html" class="homebutton">Homepage</a>
+<h4>You are awoken suddenly in the middle of the night by the a breeze of wind</h4>
+<h4> You sit up to read your clock when you realise your window isnt open</h4>
+<h4> The wind and its coming from your mirror and its swirling slightly</h4>
+<h5>What do you do?</h5>
+
+<div class="button-container">
+<a href="game1.1.html" class="button">Look at the mirror questionably and go to sleep</a>
+<a href="howtoplay.html" class="button">You decide to touch it an try see where the wind is coming from</a>
+</div>         
+	
+
+</main>
